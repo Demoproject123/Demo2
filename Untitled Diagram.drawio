@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T13:50:20.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="P_jiBEhWvh25ij24Udkl" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T13:51:14.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="jYsFD1Zf5oIN4y-zr5sU" version="14.9.4" type="github">
   <diagram id="ytLnccGYzAI3ZeDBL41Y" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="6" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="tAp40WdVH69ufv_q9evl-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-ui-2-line/32/people-group-team-peoples-friend-128.png;sketch=1;fillColor=#666666;strokeColor=#999999;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="260" y="500" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tAp40WdVH69ufv_q9evl-40" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#808080;strokeWidth=0;fillColor=none;gradientColor=#ffffff;opacity=20;" parent="1" vertex="1">
-          <mxGeometry x="164" y="241" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tAp40WdVH69ufv_q9evl-48" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
